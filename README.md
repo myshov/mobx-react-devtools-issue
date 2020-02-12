@@ -1,3 +1,11 @@
+# "Highlight updates" issue with react devtools and mobx
+
+There are three components in this project:
+* CounterMobxFunctional - **doesn't** trigger an update in react devtools
+* CounterMobxClass.js - triggers an update in react devtools
+* CounterVanilla.js - triggers an update in react devtools
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
